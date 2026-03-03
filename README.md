@@ -29,13 +29,13 @@ Customer churn directly impacts revenue. Predicting which customers will leave â
 
 | Metric | Logistic Regression | Random Forest |
 |--------|-------------------|---------------|
-| Accuracy | TBD | TBD |
-| Precision | TBD | TBD |
-| Recall | TBD | TBD |
-| F1-Score | TBD | TBD |
-| AUC-ROC | TBD | TBD |
+| Accuracy |  |  |
+| Precision |  |  |
+| Recall |  |  |
+| F1-Score |  |  |
+| AUC-ROC |  |  |
 
-*(Update with your actual results)*
+
 
 ## SHAP Explainability â€” Key Findings
 
